@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Front\\Front.csproj": {}
+    "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Front\\Front.csproj": {}
   },
   "projects": {
-    "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\Back.csproj": {
+    "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\Back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\Back.csproj",
+        "projectUniqueName": "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\Back.csproj",
         "projectName": "Back",
-        "projectPath": "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\Back.csproj",
-        "packagesPath": "C:\\Users\\herna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\obj\\",
+        "projectPath": "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\Back.csproj",
+        "packagesPath": "C:\\Users\\carlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\herna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -76,24 +75,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Front\\Front.csproj": {
+    "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Front\\Front.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Front\\Front.csproj",
+        "projectUniqueName": "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Front\\Front.csproj",
         "projectName": "Front",
-        "projectPath": "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Front\\Front.csproj",
-        "packagesPath": "C:\\Users\\herna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Front\\obj\\",
+        "projectPath": "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Front\\Front.csproj",
+        "packagesPath": "C:\\Users\\carlos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Front\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\herna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -102,15 +101,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\Back.csproj": {
-                "projectPath": "C:\\Users\\herna\\OneDrive\\Documentos\\GitHub\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\Back.csproj"
+              "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\Back.csproj": {
+                "projectPath": "C:\\Users\\carlos\\OneDrive\\Escritorio\\Proyecto-OrderUp\\ProyectoOrederUp_grupo8\\Proyectopractica\\Back\\Back.csproj"
               }
             }
           }
@@ -159,7 +157,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
